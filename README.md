@@ -102,6 +102,6 @@ single-cell RNA-seq • scATAC-seq • Bioconductor • Scanpy • Seurat
 
 🌐 https://jjia.vercel.app
 
-💼 LinkedIn: (link)
+💼 LinkedIn: https://www.linkedin.com/in/johnathan-jia-a01315170/
 
 📫 jdjia93@gmail.com
